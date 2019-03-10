@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.youtube.trailer.model.Result;
 import com.youtube.trailer.service.OMDbService;
 
-@CrossOrigin("https://heroku.com")
+@CrossOrigin("https://morning-hamlet-87493.herokuapp.com/")
 @RestController
 public class TrailerController {
 
